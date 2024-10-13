@@ -2,28 +2,13 @@
 An all-in-one solution that enhances customer interactions with automated AI chat, bookings, payments, and lead management. It integrates seamlessly into any website, providing customizable and white-labeled solutions for real-time chat, email marketing, and secure file uploads. Optimize sales and customer engagement with a minimal, modern UI, smart AI, and feature control settings.
 
 ## Features
-1.Automated AI Sales Rep: AI chatbot that handles customer inquiries.
-2.Appointment Booking: Automates scheduling and payment processing.
-Easy Website Integration: Embed into any site with simple code.
-Smart Question Linking: Intelligent question-response matching.
-Real-time Chat: Allows switching between manual and automated chats.
-White-labeling: Fully customizable interface for your brand.
-Customizable Interface: Personalize UI elements to match your design.
-Calendar Widget: Easy-to-use booking system.
-Stripe Integration: Secure payment processing with Stripe.
-Email Marketing: Simplified email marketing tools for outreach.
-Financial Dashboard: Track and manage financial performance.
-Lead Management: Save visitor data as leads for future marketing.
-Custom Login/Signup: Secure authentication with OTP.
-File/Image Uploads: Safely upload files and images.
-SEO Optimized Blogging: In-built blog to enhance SEO.
-Improved Architecture: Better scalability and performance.
-Minimal UI: Clean, visually appealing user interface.
-FAQ Section: Built-in section to answer common customer queries.
-Light/Dark Mode: Toggle between light and dark themes.
-Feature Control Settings: Manage and configure features.
-Feature Restriction by Plan: Limit features based on subscription plans.
+The Automated AI Sales Rep is an all-in-one solution that enhances customer interaction by providing an AI chatbot capable of handling customer inquiries. It simplifies appointment booking by automating scheduling and payment processing, and easily integrates with any website using simple code. Its smart question linking feature enables intelligent question-response matching, ensuring efficient communication. The system supports real-time chat, allowing seamless switching between manual and automated conversations.
 
+With white-labeling options, the interface is fully customizable to match your brand, offering a personalized user experience. It also includes a calendar widget that provides an easy-to-use booking system for scheduling. Secure payment processing is integrated through Stripe, while the email marketing feature simplifies outreach efforts. A financial dashboard helps you track and manage financial performance effortlessly, and the lead management functionality allows you to save visitor data for future marketing efforts.
+
+The platform provides secure authentication with custom login/signup options that include OTP verification. It also supports safe file and image uploads. To boost visibility, the in-built blog is optimized for SEO, while the system's improved architecture ensures better scalability and performance. The minimal UI provides a clean, visually appealing interface that users will find intuitive and easy to navigate.
+
+Additionally, the system includes a built-in FAQ section for addressing common queries, and a light/dark mode toggle to enhance user experience. Feature control settings allow you to manage and configure features, and the ability to restrict features based on subscription plans provides flexibility in offering different levels of service. Overall, this solution is designed to automate and streamline customer interactions while offering customizable features to fit your business needs.
 
 ## Environment Variables
 
