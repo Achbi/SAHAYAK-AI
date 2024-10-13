@@ -2,8 +2,8 @@
 An all-in-one solution that enhances customer interactions with automated AI chat, bookings, payments, and lead management. It integrates seamlessly into any website, providing customizable and white-labeled solutions for real-time chat, email marketing, and secure file uploads. Optimize sales and customer engagement with a minimal, modern UI, smart AI, and feature control settings.
 
 ## Features
-Automated AI Sales Rep: AI chatbot that handles customer inquiries.
-Appointment Booking: Automates scheduling and payment processing.
+1.Automated AI Sales Rep: AI chatbot that handles customer inquiries.
+2.Appointment Booking: Automates scheduling and payment processing.
 Easy Website Integration: Embed into any site with simple code.
 Smart Question Linking: Intelligent question-response matching.
 Real-time Chat: Allows switching between manual and automated chats.
