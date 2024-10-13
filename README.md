@@ -21,54 +21,6 @@ git@github.com:Maheshwarreddy970/corinna-ai.git
 cd corinna-ai
 ```
 
-## Environment Variables
-
-Before running the application, set up the environment variables. Rename `.env.example to .env ` and set your own variables.
-
-```bash
-mv .env.example .env
-nano .env  # (or use any text editor to modify .env)
-```
-
-### .env.example
-
-Here is an example of the environment variables needed for the project. Replace the placeholder values with your actual credentials.
-
-```bash
-# NodeMailer Configuration
-NODE_MAILER_EMAIL=your_email@gmail.com
-NODE_MAILER_GMAIL_APP_PASSWORD=your_gmail_app_password
-
-# Pusher Configuration
-NEXT_PUBLIC_PUSHER_APP_CLUSTOR=your_app_cluster
-NEXT_PUBLIC_PUSHER_APP_SECRET=your_app_secret
-NEXT_PUBLIC_PUSHER_APP_KEY=your_app_key
-NEXT_PUBLIC_PUSHER_APP_ID=your_app_id
-
-# OpenAI Configuration
-OPEN_AI_KEY=your_openai_key
-
-# UploadCare Configuration
-NEXT_PUBLIC_UPLOAD_CARE_PUBLIC_KEY=your_uploadcare_public_key
-UPLOAD_CARE_SECRET_KEY=your_uploadcare_secret_key
-
-# Clerk Configuration
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-CLERK_SECRET_KEY=your_clerk_secret_key
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/auth/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/auth/sign-up
-
-# Stripe Configuration
-STRIPE_SECRET=your_stripe_secret_key
-NEXT_PUBLIC_STRIPE_PUBLISH_KEY=your_stripe_publish_key
-
-# Prisma Configuration
-DATABASE_URL='your_database_url'
-
-
-```
-
-Make sure to fill in the necessary environment variables in the .env file.
 
 ## Install Dependencies
 
